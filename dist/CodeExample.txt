@@ -1,0 +1,4 @@
+labelmejson2yolotxt -W C:\Users\... -C A,B,C
+
+-W   --->   It reveals the workplace and converts the JSON files inside the folder into text files.
+-C   --->   The classes within the JSON files must be provided. The index numbers of the files are determined based on the classes
